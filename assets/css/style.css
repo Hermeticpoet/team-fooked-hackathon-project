@@ -26,7 +26,10 @@ a .nav-link {
 }
 
 img {
-    width: 100vw;
+    width: 75vw;
+    border: 1px black solid;
+    border-radius: 5px;
+    justify-content: center;
 }
 
 .banner-image {
