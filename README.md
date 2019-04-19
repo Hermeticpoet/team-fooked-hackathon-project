@@ -14,23 +14,19 @@ Teams will showcase their ability to work together collaboratively, in order to 
 the skillset needed to do so in a workplace production environment.
 
 > Hackathon Criteria:
-  
-> Presentation and Adherence to Theme:
-  Easter theme /15
-  
-> Team Collaboration:
-  Use of Slack channel and Trello /15
-  
-> Usability and Practicality:
-  Application and ease of use /10
-  
-> Effective Use of Course Knowledge:
-  Language, technique, and quality /10
+>
+> Presentation and Adherence to Theme: Easter theme /15
+>  
+> Team Collaboration: Use of Slack channel and Trello /15
+>  
+> Usability and Practicality: Application and ease of use /10
+> 
+> Effective Use of Course Knowledge: Language, technique, and quality /10
+>
+> Awesomeness: Creativity, imagination, and features /10
+>
+> Total: /60 
 
-> Awesomeness:
-  Creativity, imagination, and features /10
-
-> Total: /60
 
 ### Features
 We decided as a team that we wanted to build something practical, yet fun. The design
@@ -60,5 +56,16 @@ places around the globe. The third element will be a link to our surprise game.
 [JSHint](https://jshint.com/) was used to validate JavaScript.
 
 ### Content
+* Finnish traditions: [Finland](https://finland.fi/life-society/wandering-witches-welcome-finnish-easter/)
+* Wanderlust - 12 Crazy Easter Traditions:[Wanderlust](https://www.wanderlust.co.uk/content/worlds-craziest-easter-traditions/)
+* Fox News - Funny Easter Traditions: [Easter Fun](https://www.foxnews.com/travel/unusual-good-friday-and-easter-celebrations-around-the-world)
+* Journal.ie - Fascinating Easter Traditionss: [Journal.ie](https://www.thejournal.ie/easter-fascinating-traditions-around-the-world-405263-Apr2012/)
+* Bunny Hunt Game: [Bunny Hunt](https://themaninblue.com/experiment/BunnyHunt/)
+* Banner Image: [Google Images](https://www.google.com/search?as_st=y&tbm=isch&hl=en-IE&as_q=easter+eggs+games&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:f)
+ 
 
 #### Media
+The videos, images and information about the various Easter traditions were all scrapped 
+from the web. The game idea was taken from a site that freely shared the code for use.
+The images were obtained via commericial free to use & share licenses. The traditions themselves
+were gathered from news media sites and government marketing site.
