@@ -5,3 +5,22 @@ iframe {
     border: none;
     margin: auto;
 }
+
+/* Navbar */
+
+.navbar-brand {
+    padding-left: 10vh;
+    font-family: 'Cute Font', sans-serif;
+    font-size: 3rem;
+}
+
+a .nav-link {
+    font-family: 'Roboto', sans-serif;
+    font-size: 5rem;
+    padding-left: 20vw !important;
+    padding-right: 20vw !important;
+}
+
+#navbar {
+    background-color: #f3216f !important;
+}
